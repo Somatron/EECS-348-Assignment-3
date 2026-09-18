@@ -12,6 +12,8 @@
     Author's name: Som Javia
     Creation Date: 9/18/2026 
     Revisions: Create program in C++
+    Revision Date: 9/18/2026
+    Other sources: None
 
     I AUTHORED ALL OF THE CODE HERE IN DISPLAY 
 */
