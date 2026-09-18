@@ -21,6 +21,7 @@
 #include <vector> //for <sender, message, date> format
 #include <sstream> //string stream format
 #include <cctype> //test and convert individual characters
+#include <fstream> //to ask the user to input a text file
 
 // Email class - holds one email's data and provides comparison for MaxHeap
 class Email {
